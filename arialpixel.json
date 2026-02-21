@@ -1,1 +1,16 @@
-
+{
+  "name": "Arial Pixel",
+  "description": "glory to the ncr",
+  "authors": [
+    {
+      "name": "big claire in the house",
+      "id": "0"
+    }
+  ],
+  "spec": 2,
+  "semanticColors": {},
+  "rawColors": {},
+  "background": {},
+  "fonts": {},
+  "css": "@font-face { font-family: 'ArialPixel'; src: url('https://github.com/calciummmm/Testfont/blob/main/PIXEAB__.TTF') format('ttf'); } * { font-family: 'ArialPixel' !important; }"
+}
